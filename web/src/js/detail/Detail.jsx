@@ -92,6 +92,13 @@ export default class Detail extends React.Component {
         return (
             <div className="detail-page">
                  <div className="site-header">
+                    <div className="home">
+                        <a
+                            className="home-link"
+                            href="#/">
+                            Home
+                        </a>
+                    </div>
                     <div className="title">
                         {this.state.title}
                     </div>

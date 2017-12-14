@@ -3,6 +3,29 @@
         background-color: $color-primary-darkest;
         padding: 50px 20px;
 
+        .home {
+            position: fixed;
+            top: 0;
+            left: 0;
+            a.home-link {
+                display: block;
+                color: $color-white;
+                width: 75px;
+                height: 30px;
+                line-height: 30px;
+                text-align: center;
+                padding: 5px;
+                background-color: $color-cool-blue-light;
+                box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+                z-index: 2;
+
+                &:hover {
+                    text-decoration: none;
+                    background-color: $color-cool-blue-lighter;
+                }
+            }
+        }
+
         .title {
             @include header;
             font-size: 48px;
