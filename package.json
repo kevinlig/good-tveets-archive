@@ -2,7 +2,7 @@
   "name": "good-tveets-archive",
   "version": "1.0.0",
   "description": "Web and data archive of Good TVeets Storify stories.",
-  "main": "web/app.js",
+  "main": "web/src/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "./node_modules/.bin/webpack-dev-server --progress --config ./webpack.config.js",
