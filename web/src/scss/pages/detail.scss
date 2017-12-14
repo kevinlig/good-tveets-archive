@@ -1,0 +1,101 @@
+.detail-page {
+    .site-header {
+        background-color: $color-primary-darkest;
+        padding: 50px 20px;
+
+        .title {
+            @include header;
+            font-size: 48px;
+            font-weight: 200;
+            color: $color-white;
+            text-align: center;
+        }
+        .date {
+            font-family: 'Barlow', sans-serif;
+            font-weight: 400;
+            font-size: 16px;
+            text-transform: uppercase;
+            color: $color-white;
+            text-align: center;
+
+            margin-top: 10px;
+        }
+    }
+
+    .page-content {
+        max-width: 1200px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 20px;
+
+        .quality-container {
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom: 10px;
+            max-width: 500px;
+
+            .quality-header {
+                font-family: 'Barlow', sans-serif;
+                font-weight: 600;
+                font-size: 16px;
+                text-transform: uppercase;
+
+                text-align: center;
+            }
+
+            .quality-badge {
+                margin-top: 5px;
+                margin-bottom: 5px;
+
+                border-radius: 5px;
+                padding: 5px 2px;
+                color: $color-white;
+
+                width: 75px;
+                margin-left: auto;
+                margin-right: auto;
+
+                text-align: center;
+
+                &.unknown {
+                    background-color: $color-gray-warm-dark;
+                }
+                &.poor {
+                    background-color: $color-secondary-dark;
+                }
+                &.degraded {
+                    background-color: $color-gold;
+                }
+                &.good {
+                    background-color: $color-green;
+                }
+            }
+        }
+
+        .tweet-list {
+            list-style: none;
+            padding: 0;
+            margin-top: 0px;
+            margin-bottom: 20px;
+
+            margin-left: auto;
+            margin-right: auto;
+            max-width: 500px;
+
+            li {
+                padding: 5px 0px;
+            }
+        }
+
+        .removed-tweets {
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom: 10px;
+            max-width: 500px;
+
+            li {
+                word-wrap: break-word;
+            }
+        }
+    }
+}

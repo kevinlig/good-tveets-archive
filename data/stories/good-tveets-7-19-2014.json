@@ -1,0 +1,3133 @@
+{
+    "meta": {
+        "id": "good-tveets-7-19-2014",
+        "title": "Good TVeets 7/19/2014",
+        "date": 1405783470
+    },
+    "tweets": [
+        {
+            "url": "https://twitter.com/thesurfreport/status/490282157873451008",
+            "author_name": "Diane Gordon",
+            "author_url": "https://twitter.com/thesurfreport",
+            "html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Dear Dominic West: just keep talking. Say anything.</p>&mdash; Diane Gordon (@thesurfreport) <a href=\"https://twitter.com/thesurfreport/status/490282157873451008?ref_src=twsrc%5Etfw\">July 18, 2014</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+            "width": 550,
+            "height": null,
+            "type": "rich",
+            "cache_age": "3153600000",
+            "provider_name": "Twitter",
+            "provider_url": "https://twitter.com",
+            "version": "1.0"
+        }
+    ],
+    "lost": [],
+    "missing": [
+        {
+            "id": "53c9cb61c6cca65a4000cc5a",
+            "eid": "107c7b4e3054adde9353554a",
+            "type": "link",
+            "permalink": "//twitter.com/billyeichner/status/490267769934331904",
+            "posted_at": "2014-07-18T22:51:59.000Z",
+            "added_at": "2014-07-19T01:35:29.924Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/NTwF3p7alclkVHAClYzoyg/http/pbs.twimg.com/profile_images/429021363395760129/dwWM-zDA_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/billyeichner/status/490267769934331904"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/NTwF3p7alclkVHAClYzoyg/http/pbs.twimg.com/profile_images/429021363395760129/dwWM-zDA_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "74669397",
+                "username": "billyeichner"
+            },
+            "attribution": {
+                "name": "billy eichner",
+                "username": "billyeichner",
+                "href": "//twitter.com/billyeichner",
+                "thumbnail": "https://storify.com/services/proxy/2/NTwF3p7alclkVHAClYzoyg/http/pbs.twimg.com/profile_images/429021363395760129/dwWM-zDA_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb61c6cca65a4000cc5b",
+            "eid": "2fea9d1263dda341daa92d86",
+            "type": "image",
+            "permalink": "//twitter.com/AminNBA/status/490199337147052032",
+            "posted_at": "2014-07-18T18:20:04.000Z",
+            "added_at": "2014-07-19T01:35:29.936Z",
+            "data": {
+                "image": {
+                    "caption": "Twitter",
+                    "src": "https://storify.com/services/proxy/2/opusyowyzZEHf6_XAHlCKA/http/pbs.twimg.com/media/Bs2Ji0DCUAEr23a.jpg"
+                },
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/yswFirt32-TtCsjct-PzMg/http/pbs.twimg.com/profile_images/3769156204/4369fd914a3b943b89bf214e98d350f2_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/AminNBA/status/490199337147052032"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/yswFirt32-TtCsjct-PzMg/http/pbs.twimg.com/profile_images/3769156204/4369fd914a3b943b89bf214e98d350f2_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "48109573",
+                "username": "AminNBA"
+            },
+            "attribution": {
+                "name": "Amin Vafa",
+                "username": "AminNBA",
+                "href": "//twitter.com/AminNBA",
+                "thumbnail": "https://storify.com/services/proxy/2/yswFirt32-TtCsjct-PzMg/http/pbs.twimg.com/profile_images/3769156204/4369fd914a3b943b89bf214e98d350f2_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb61c6cca65a4000cc5c",
+            "eid": "5dbf17ec76b64b57e3079e2a",
+            "type": "link",
+            "permalink": "//twitter.com/yoyoha/status/490206049484292096",
+            "posted_at": "2014-07-18T18:46:44.000Z",
+            "added_at": "2014-07-19T01:35:29.968Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/ojnrSbhyvkkUMVCkcOAObQ/http/pbs.twimg.com/profile_images/1490888736/avatar-sm_normal.jpg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/yoyoha/status/490206049484292096"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/ojnrSbhyvkkUMVCkcOAObQ/http/pbs.twimg.com/profile_images/1490888736/avatar-sm_normal.jpg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "26871300",
+                "username": "yoyoha"
+            },
+            "attribution": {
+                "name": "Josh Hara",
+                "username": "yoyoha",
+                "href": "//twitter.com/yoyoha",
+                "thumbnail": "https://storify.com/services/proxy/2/ojnrSbhyvkkUMVCkcOAObQ/http/pbs.twimg.com/profile_images/1490888736/avatar-sm_normal.jpg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb61c6cca65a4000cc5d",
+            "eid": "19eb8a562f0c344049033f51",
+            "type": "link",
+            "permalink": "//twitter.com/MattFnWallace/status/490217493760180224",
+            "posted_at": "2014-07-18T19:32:12.000Z",
+            "added_at": "2014-07-19T01:35:29.984Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/NjE3w52fhZOBe7BiyuGTeg/http/pbs.twimg.com/profile_images/2320091938/0edzur8dh77nqvwz66qd_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/MattFnWallace/status/490217493760180224"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/NjE3w52fhZOBe7BiyuGTeg/http/pbs.twimg.com/profile_images/2320091938/0edzur8dh77nqvwz66qd_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "15409985",
+                "username": "MattFnWallace"
+            },
+            "attribution": {
+                "name": "Matt Wallace",
+                "username": "MattFnWallace",
+                "href": "//twitter.com/MattFnWallace",
+                "thumbnail": "https://storify.com/services/proxy/2/NjE3w52fhZOBe7BiyuGTeg/http/pbs.twimg.com/profile_images/2320091938/0edzur8dh77nqvwz66qd_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53ca810d98c0d0f27500273b",
+            "eid": "978cea1cb93a6629d31fef95",
+            "type": "link",
+            "permalink": "//twitter.com/TheThomason/status/489561820941008896",
+            "posted_at": "2014-07-17T00:06:48.000Z",
+            "added_at": "2014-07-19T14:30:37.244Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/AID4QyGR5HKkupV9It_9zQ/http/pbs.twimg.com/profile_images/458998910703255552/QFv8NsQd_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/TheThomason/status/489561820941008896"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/AID4QyGR5HKkupV9It_9zQ/http/pbs.twimg.com/profile_images/458998910703255552/QFv8NsQd_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "82524253",
+                "username": "TheThomason"
+            },
+            "attribution": {
+                "name": "Sean Thomason",
+                "username": "TheThomason",
+                "href": "//twitter.com/TheThomason",
+                "thumbnail": "https://storify.com/services/proxy/2/AID4QyGR5HKkupV9It_9zQ/http/pbs.twimg.com/profile_images/458998910703255552/QFv8NsQd_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53ca805c5b697f7829001fef",
+            "eid": "9b0d8993a4026538097e3ff4",
+            "type": "link",
+            "permalink": "//twitter.com/MuseZack/status/490337853927206912",
+            "posted_at": "2014-07-19T03:30:29.000Z",
+            "added_at": "2014-07-19T14:27:40.758Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/GzNhvqTwBhudByL7jCsU9A/http/pbs.twimg.com/profile_images/484744661282471936/tjmr0zJh_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/MuseZack/status/490337853927206912"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/GzNhvqTwBhudByL7jCsU9A/http/pbs.twimg.com/profile_images/484744661282471936/tjmr0zJh_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "195129672",
+                "username": "MuseZack"
+            },
+            "attribution": {
+                "name": "Zack Stentz",
+                "username": "MuseZack",
+                "href": "//twitter.com/MuseZack",
+                "thumbnail": "https://storify.com/services/proxy/2/GzNhvqTwBhudByL7jCsU9A/http/pbs.twimg.com/profile_images/484744661282471936/tjmr0zJh_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53ca809e2b19949013005435",
+            "eid": "fc8ddf71b7760235ce8d4f7d",
+            "type": "image",
+            "permalink": "//twitter.com/maggie_caudle/status/490303046627258369",
+            "posted_at": "2014-07-19T01:12:10.000Z",
+            "added_at": "2014-07-19T14:28:46.425Z",
+            "data": {
+                "image": {
+                    "caption": "Twitter",
+                    "src": "https://storify.com/services/proxy/2/bqfLRCfQDzohefWchPdjUg/http/pbs.twimg.com/media/Bs3oBcACUAEs-Pz.jpg"
+                },
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/ewWVuL5DCoGO0tlrHrEsqQ/http/pbs.twimg.com/profile_images/487269274960941057/7oU9W7Ul_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/maggie_caudle/status/490303046627258369"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/ewWVuL5DCoGO0tlrHrEsqQ/http/pbs.twimg.com/profile_images/487269274960941057/7oU9W7Ul_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "931012848",
+                "username": "maggie_caudle"
+            },
+            "attribution": {
+                "name": "Maggie Caudle",
+                "username": "maggie_caudle",
+                "href": "//twitter.com/maggie_caudle",
+                "thumbnail": "https://storify.com/services/proxy/2/ewWVuL5DCoGO0tlrHrEsqQ/http/pbs.twimg.com/profile_images/487269274960941057/7oU9W7Ul_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53ca809e2b19949013005436",
+            "eid": "21b8ed39bd2a5a6f925e3cfc",
+            "type": "link",
+            "permalink": "//twitter.com/KaylaKumari/status/490315504465100800",
+            "posted_at": "2014-07-19T02:01:40.000Z",
+            "added_at": "2014-07-19T14:28:46.447Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/dRsAPzWnnSPR7UCI9pgEDg/http/pbs.twimg.com/profile_images/482621728724512768/RxIO-7YV_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/KaylaKumari/status/490315504465100800"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/dRsAPzWnnSPR7UCI9pgEDg/http/pbs.twimg.com/profile_images/482621728724512768/RxIO-7YV_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "24085156",
+                "username": "KaylaKumari"
+            },
+            "attribution": {
+                "name": "KaylaKumariUpadhyaya",
+                "username": "KaylaKumari",
+                "href": "//twitter.com/KaylaKumari",
+                "thumbnail": "https://storify.com/services/proxy/2/dRsAPzWnnSPR7UCI9pgEDg/http/pbs.twimg.com/profile_images/482621728724512768/RxIO-7YV_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53ca805c5b697f7829001ff2",
+            "eid": "1f02e73d402a44fd6662f1c8",
+            "type": "link",
+            "permalink": "//twitter.com/AliGraysAnatomy/status/490326782445223936",
+            "posted_at": "2014-07-19T02:46:29.000Z",
+            "added_at": "2014-07-19T14:27:40.772Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/lIoqGzEKrQCZLQe53rbk_g/http/pbs.twimg.com/profile_images/1154568493/Photo_on_2010-10-28_at_13_normal.jpg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/AliGraysAnatomy/status/490326782445223936"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/lIoqGzEKrQCZLQe53rbk_g/http/pbs.twimg.com/profile_images/1154568493/Photo_on_2010-10-28_at_13_normal.jpg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "36179694",
+                "username": "AliGraysAnatomy"
+            },
+            "attribution": {
+                "name": "Alicia Gray",
+                "username": "AliGraysAnatomy",
+                "href": "//twitter.com/AliGraysAnatomy",
+                "thumbnail": "https://storify.com/services/proxy/2/lIoqGzEKrQCZLQe53rbk_g/http/pbs.twimg.com/profile_images/1154568493/Photo_on_2010-10-28_at_13_normal.jpg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53ca810d98c0d0f275002740",
+            "eid": "b6944017431671d03535be0d",
+            "type": "image",
+            "permalink": "//twitter.com/BrianMontopoli/status/490199260986900480",
+            "posted_at": "2014-07-18T18:19:45.000Z",
+            "added_at": "2014-07-19T14:30:37.277Z",
+            "data": {
+                "image": {
+                    "caption": "Twitter",
+                    "src": "https://storify.com/services/proxy/2/Ch4y_oJWdeWX6RI_6pjGvw/http/pbs.twimg.com/media/Bs2JoRhIAAA_Oz1.jpg"
+                },
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/1hT-fDbYPBezUv1UjlsIig/http/pbs.twimg.com/profile_images/3257866193/bdb43d16b18072e1feb9f02a73ef15b7_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/BrianMontopoli/status/490199260986900480"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/1hT-fDbYPBezUv1UjlsIig/http/pbs.twimg.com/profile_images/3257866193/bdb43d16b18072e1feb9f02a73ef15b7_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "1161714199",
+                "username": "BrianMontopoli"
+            },
+            "attribution": {
+                "name": "Brian Montopoli",
+                "username": "BrianMontopoli",
+                "href": "//twitter.com/BrianMontopoli",
+                "thumbnail": "https://storify.com/services/proxy/2/1hT-fDbYPBezUv1UjlsIig/http/pbs.twimg.com/profile_images/3257866193/bdb43d16b18072e1feb9f02a73ef15b7_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb61c6cca65a4000cc5e",
+            "eid": "fce10ef8e82d7a9d93bfe98a",
+            "type": "link",
+            "permalink": "//twitter.com/HitFixDaniel/status/490223125145976832",
+            "posted_at": "2014-07-18T19:54:35.000Z",
+            "added_at": "2014-07-19T01:35:29.997Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/piJzgvQlW_YizX-1mk_KVA/http/pbs.twimg.com/profile_images/478759709948657665/OQ9vKJyk_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/HitFixDaniel/status/490223125145976832"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/piJzgvQlW_YizX-1mk_KVA/http/pbs.twimg.com/profile_images/478759709948657665/OQ9vKJyk_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "14305399",
+                "username": "HitFixDaniel"
+            },
+            "attribution": {
+                "name": "Daniel Fienberg",
+                "username": "HitFixDaniel",
+                "href": "//twitter.com/HitFixDaniel",
+                "thumbnail": "https://storify.com/services/proxy/2/piJzgvQlW_YizX-1mk_KVA/http/pbs.twimg.com/profile_images/478759709948657665/OQ9vKJyk_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb62c6cca65a4000cc5f",
+            "eid": "74810d1e094330f361f119a8",
+            "type": "link",
+            "permalink": "//twitter.com/rcatlin/status/490225047521349633",
+            "posted_at": "2014-07-18T20:02:13.000Z",
+            "added_at": "2014-07-19T01:35:30.011Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/KR-eHBy9LaamIzP9_KSMnA/http/pbs.twimg.com/profile_images/1830775941/biopic_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/rcatlin/status/490225047521349633"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/KR-eHBy9LaamIzP9_KSMnA/http/pbs.twimg.com/profile_images/1830775941/biopic_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "18754272",
+                "username": "rcatlin"
+            },
+            "attribution": {
+                "name": "Roger Catlin",
+                "username": "rcatlin",
+                "href": "//twitter.com/rcatlin",
+                "thumbnail": "https://storify.com/services/proxy/2/KR-eHBy9LaamIzP9_KSMnA/http/pbs.twimg.com/profile_images/1830775941/biopic_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb62c6cca65a4000cc60",
+            "eid": "b0de37f1ea8fb0cb2b326c84",
+            "type": "link",
+            "permalink": "//twitter.com/TVGuideMagazine/status/490239701388099584",
+            "posted_at": "2014-07-18T21:00:27.000Z",
+            "added_at": "2014-07-19T01:35:30.027Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/Re_weL5ls8upoK76DyHMPw/http/pbs.twimg.com/profile_images/65993437/TVGuideMagLogo11.15.08_normal.jpg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/TVGuideMagazine/status/490239701388099584"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/Re_weL5ls8upoK76DyHMPw/http/pbs.twimg.com/profile_images/65993437/TVGuideMagLogo11.15.08_normal.jpg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "17783278",
+                "username": "TVGuideMagazine"
+            },
+            "attribution": {
+                "name": "TV Guide Magazine",
+                "username": "TVGuideMagazine",
+                "href": "//twitter.com/TVGuideMagazine",
+                "thumbnail": "https://storify.com/services/proxy/2/Re_weL5ls8upoK76DyHMPw/http/pbs.twimg.com/profile_images/65993437/TVGuideMagLogo11.15.08_normal.jpg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb62c6cca65a4000cc61",
+            "eid": "98d71c775734de4988cf1fd2",
+            "type": "link",
+            "permalink": "//twitter.com/JarettSays/status/490239770623094784",
+            "posted_at": "2014-07-18T21:00:44.000Z",
+            "added_at": "2014-07-19T01:35:30.042Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/ZMm_0COPuk9eYIcPzVAVPg/http/pbs.twimg.com/profile_images/1599793679/jwwww_normal.jpg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/JarettSays/status/490239770623094784"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/ZMm_0COPuk9eYIcPzVAVPg/http/pbs.twimg.com/profile_images/1599793679/jwwww_normal.jpg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "17468528",
+                "username": "JarettSays"
+            },
+            "attribution": {
+                "name": "Jarett Wieselman",
+                "username": "JarettSays",
+                "href": "//twitter.com/JarettSays",
+                "thumbnail": "https://storify.com/services/proxy/2/ZMm_0COPuk9eYIcPzVAVPg/http/pbs.twimg.com/profile_images/1599793679/jwwww_normal.jpg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb62c6cca65a4000cc62",
+            "eid": "081c7e38375f7558a32991b6",
+            "type": "link",
+            "permalink": "//twitter.com/corybarker/status/490239929981890560",
+            "posted_at": "2014-07-18T21:01:22.000Z",
+            "added_at": "2014-07-19T01:35:30.057Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/VfnMhXj3yjP9bYVdTL0yYQ/http/pbs.twimg.com/profile_images/436241107974750209/NvzI0VzX_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/corybarker/status/490239929981890560"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/VfnMhXj3yjP9bYVdTL0yYQ/http/pbs.twimg.com/profile_images/436241107974750209/NvzI0VzX_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "16197695",
+                "username": "corybarker"
+            },
+            "attribution": {
+                "name": "Cory Barker",
+                "username": "corybarker",
+                "href": "//twitter.com/corybarker",
+                "thumbnail": "https://storify.com/services/proxy/2/VfnMhXj3yjP9bYVdTL0yYQ/http/pbs.twimg.com/profile_images/436241107974750209/NvzI0VzX_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb5b76f281fb0e008fe2",
+            "eid": "4ab0a5766e1297bbe9194c82",
+            "type": "link",
+            "permalink": "//twitter.com/moryan/status/490250657794756608",
+            "posted_at": "2014-07-18T21:43:59.000Z",
+            "added_at": "2014-07-19T01:35:23.551Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/oGv1X12ek8UEczj_sAtrzQ/http/pbs.twimg.com/profile_images/378800000056986670/eb9457225329616364aaa221b20a9bca_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/moryan/status/490250657794756608"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/oGv1X12ek8UEczj_sAtrzQ/http/pbs.twimg.com/profile_images/378800000056986670/eb9457225329616364aaa221b20a9bca_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "10111462",
+                "username": "moryan"
+            },
+            "attribution": {
+                "name": "Mo Ryan",
+                "username": "moryan",
+                "href": "//twitter.com/moryan",
+                "thumbnail": "https://storify.com/services/proxy/2/oGv1X12ek8UEczj_sAtrzQ/http/pbs.twimg.com/profile_images/378800000056986670/eb9457225329616364aaa221b20a9bca_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb5b76f281fb0e008fe4",
+            "eid": "cd84ab3edfa6d330eba68599",
+            "type": "link",
+            "permalink": "//twitter.com/MeredithBlake/status/490253825727422464",
+            "posted_at": "2014-07-18T21:56:35.000Z",
+            "added_at": "2014-07-19T01:35:23.576Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/w0Re_axTK_miphqGST6d4A/http/pbs.twimg.com/profile_images/477180689603780609/0MiWCIsm_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/MeredithBlake/status/490253825727422464"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/w0Re_axTK_miphqGST6d4A/http/pbs.twimg.com/profile_images/477180689603780609/0MiWCIsm_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "16135407",
+                "username": "MeredithBlake"
+            },
+            "attribution": {
+                "name": "Meredith Blake",
+                "username": "MeredithBlake",
+                "href": "//twitter.com/MeredithBlake",
+                "thumbnail": "https://storify.com/services/proxy/2/w0Re_axTK_miphqGST6d4A/http/pbs.twimg.com/profile_images/477180689603780609/0MiWCIsm_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb5b76f281fb0e008fe5",
+            "eid": "6237dce03661801cf5517fb2",
+            "type": "link",
+            "permalink": "//twitter.com/Memles/status/490253987447205890",
+            "posted_at": "2014-07-18T21:57:13.000Z",
+            "added_at": "2014-07-19T01:35:23.583Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/UXztQ6lYqUiQhUrT5fa2zw/http/pbs.twimg.com/profile_images/1422986268/CanadaDayTwitter_normal.jpg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/Memles/status/490253987447205890"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/UXztQ6lYqUiQhUrT5fa2zw/http/pbs.twimg.com/profile_images/1422986268/CanadaDayTwitter_normal.jpg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "14826211",
+                "username": "Memles"
+            },
+            "attribution": {
+                "name": "Myles McNutt",
+                "username": "Memles",
+                "href": "//twitter.com/Memles",
+                "thumbnail": "https://storify.com/services/proxy/2/UXztQ6lYqUiQhUrT5fa2zw/http/pbs.twimg.com/profile_images/1422986268/CanadaDayTwitter_normal.jpg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb5b76f281fb0e008fe6",
+            "eid": "30cb0af9606fd4f78fd90f2d",
+            "type": "link",
+            "permalink": "//twitter.com/blowryontv/status/490254102299815936",
+            "posted_at": "2014-07-18T21:57:41.000Z",
+            "added_at": "2014-07-19T01:35:23.591Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/iK-rj28X1AEUoSdQHZjRSg/http/pbs.twimg.com/profile_images/1215895087/BrianLowry-tw_normal.jpg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/blowryontv/status/490254102299815936"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/iK-rj28X1AEUoSdQHZjRSg/http/pbs.twimg.com/profile_images/1215895087/BrianLowry-tw_normal.jpg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "237469420",
+                "username": "blowryontv"
+            },
+            "attribution": {
+                "name": "Brian Lowry",
+                "username": "blowryontv",
+                "href": "//twitter.com/blowryontv",
+                "thumbnail": "https://storify.com/services/proxy/2/iK-rj28X1AEUoSdQHZjRSg/http/pbs.twimg.com/profile_images/1215895087/BrianLowry-tw_normal.jpg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb5b76f281fb0e008fe3",
+            "eid": "13c65bf3203dc3751a3bed5e",
+            "type": "link",
+            "permalink": "//twitter.com/AlyssaRosenberg/status/490251851934093312",
+            "posted_at": "2014-07-18T21:48:44.000Z",
+            "added_at": "2014-07-19T01:35:23.568Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/_kHLFxk0jJdF2eMTiFGLDw/http/pbs.twimg.com/profile_images/471305315023982592/_E1EylNS_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/AlyssaRosenberg/status/490251851934093312"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/_kHLFxk0jJdF2eMTiFGLDw/http/pbs.twimg.com/profile_images/471305315023982592/_E1EylNS_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "17174089",
+                "username": "AlyssaRosenberg"
+            },
+            "attribution": {
+                "name": "Alyssa Rosenberg",
+                "username": "AlyssaRosenberg",
+                "href": "//twitter.com/AlyssaRosenberg",
+                "thumbnail": "https://storify.com/services/proxy/2/_kHLFxk0jJdF2eMTiFGLDw/http/pbs.twimg.com/profile_images/471305315023982592/_E1EylNS_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb5b76f281fb0e008fe7",
+            "eid": "83ee679ebd0ea5ce72277464",
+            "type": "link",
+            "permalink": "//twitter.com/tvoti/status/490281887881887745",
+            "posted_at": "2014-07-18T23:48:05.000Z",
+            "added_at": "2014-07-19T01:35:23.599Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/IY9HjRcnqW08lzQ7Kltupw/http/pbs.twimg.com/profile_images/488826326749429760/hDRbdWbw_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/tvoti/status/490281887881887745"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/IY9HjRcnqW08lzQ7Kltupw/http/pbs.twimg.com/profile_images/488826326749429760/hDRbdWbw_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "26125943",
+                "username": "tvoti"
+            },
+            "attribution": {
+                "name": "Todd VanDerWerff",
+                "username": "tvoti",
+                "href": "//twitter.com/tvoti",
+                "thumbnail": "https://storify.com/services/proxy/2/IY9HjRcnqW08lzQ7Kltupw/http/pbs.twimg.com/profile_images/488826326749429760/hDRbdWbw_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb5b76f281fb0e008fe8",
+            "eid": "81b86cdba294f14c7ba388b3",
+            "type": "link",
+            "permalink": "//twitter.com/AlyssaRosenberg/status/490282014419865601",
+            "posted_at": "2014-07-18T23:48:35.000Z",
+            "added_at": "2014-07-19T01:35:23.606Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/_kHLFxk0jJdF2eMTiFGLDw/http/pbs.twimg.com/profile_images/471305315023982592/_E1EylNS_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/AlyssaRosenberg/status/490282014419865601"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/_kHLFxk0jJdF2eMTiFGLDw/http/pbs.twimg.com/profile_images/471305315023982592/_E1EylNS_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "17174089",
+                "username": "AlyssaRosenberg"
+            },
+            "attribution": {
+                "name": "Alyssa Rosenberg",
+                "username": "AlyssaRosenberg",
+                "href": "//twitter.com/AlyssaRosenberg",
+                "thumbnail": "https://storify.com/services/proxy/2/_kHLFxk0jJdF2eMTiFGLDw/http/pbs.twimg.com/profile_images/471305315023982592/_E1EylNS_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb1fc6cca65a4000cb30",
+            "eid": "d344c45391490214693ea527",
+            "type": "link",
+            "permalink": "//twitter.com/tvoti/status/489921498769940480",
+            "posted_at": "2014-07-17T23:56:02.000Z",
+            "added_at": "2014-07-19T01:34:23.601Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/IY9HjRcnqW08lzQ7Kltupw/http/pbs.twimg.com/profile_images/488826326749429760/hDRbdWbw_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/tvoti/status/489921498769940480"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/IY9HjRcnqW08lzQ7Kltupw/http/pbs.twimg.com/profile_images/488826326749429760/hDRbdWbw_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "26125943",
+                "username": "tvoti"
+            },
+            "attribution": {
+                "name": "Todd VanDerWerff",
+                "username": "tvoti",
+                "href": "//twitter.com/tvoti",
+                "thumbnail": "https://storify.com/services/proxy/2/IY9HjRcnqW08lzQ7Kltupw/http/pbs.twimg.com/profile_images/488826326749429760/hDRbdWbw_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb1fc6cca65a4000cb31",
+            "eid": "5d4857c9fb9cafd116373ecd",
+            "type": "link",
+            "permalink": "//twitter.com/kevwilliamson/status/490231307180339200",
+            "posted_at": "2014-07-18T20:27:06.000Z",
+            "added_at": "2014-07-19T01:34:23.612Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/kevwilliamson/status/490231307180339200"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "25209206",
+                "username": "kevwilliamson"
+            },
+            "attribution": {
+                "name": "Kevin Williamson",
+                "username": "kevwilliamson",
+                "href": "//twitter.com/kevwilliamson",
+                "thumbnail": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb1fc6cca65a4000cb32",
+            "eid": "913f7c271ab60c12be491c41",
+            "type": "link",
+            "permalink": "//twitter.com/kevwilliamson/status/490231884249460736",
+            "posted_at": "2014-07-18T20:29:23.000Z",
+            "added_at": "2014-07-19T01:34:23.623Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/kevwilliamson/status/490231884249460736"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "25209206",
+                "username": "kevwilliamson"
+            },
+            "attribution": {
+                "name": "Kevin Williamson",
+                "username": "kevwilliamson",
+                "href": "//twitter.com/kevwilliamson",
+                "thumbnail": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb1fc6cca65a4000cb33",
+            "eid": "aca8514fa05b36ce8d746002",
+            "type": "link",
+            "permalink": "//twitter.com/ElSoderbergho/status/490238872841117696",
+            "posted_at": "2014-07-18T20:57:10.000Z",
+            "added_at": "2014-07-19T01:34:23.634Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/z0AKf6IY6hw-7u-MN99v0Q/http/pbs.twimg.com/profile_images/487699794236669952/H-1Rlxo4_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/ElSoderbergho/status/490238872841117696"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/z0AKf6IY6hw-7u-MN99v0Q/http/pbs.twimg.com/profile_images/487699794236669952/H-1Rlxo4_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "2618633432",
+                "username": "ElSoderbergho"
+            },
+            "attribution": {
+                "name": "The Narrator",
+                "username": "ElSoderbergho",
+                "href": "//twitter.com/ElSoderbergho",
+                "thumbnail": "https://storify.com/services/proxy/2/z0AKf6IY6hw-7u-MN99v0Q/http/pbs.twimg.com/profile_images/487699794236669952/H-1Rlxo4_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53ca81e25b697f78290036ba",
+            "eid": "f885940c21d138205ecc0408",
+            "type": "link",
+            "permalink": "//twitter.com/kevwilliamson/status/490231947004608512",
+            "posted_at": "2014-07-18T20:29:38.000Z",
+            "added_at": "2014-07-19T14:34:10.439Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/kevwilliamson/status/490231947004608512"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "25209206",
+                "username": "kevwilliamson"
+            },
+            "attribution": {
+                "name": "Kevin Williamson",
+                "username": "kevwilliamson",
+                "href": "//twitter.com/kevwilliamson",
+                "thumbnail": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53ca821e5b697f7829003ad6",
+            "eid": "b47201bcc33d03e9a5fffa09",
+            "type": "link",
+            "permalink": "//twitter.com/kevwilliamson/status/490232530373599232",
+            "posted_at": "2014-07-18T20:31:57.000Z",
+            "added_at": "2014-07-19T14:35:10.455Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/kevwilliamson/status/490232530373599232"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "25209206",
+                "username": "kevwilliamson"
+            },
+            "attribution": {
+                "name": "Kevin Williamson",
+                "username": "kevwilliamson",
+                "href": "//twitter.com/kevwilliamson",
+                "thumbnail": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb1fc6cca65a4000cb34",
+            "eid": "7bd89faf7d1de441127c201d",
+            "type": "link",
+            "permalink": "//twitter.com/crsbecker/status/490232639639805953",
+            "posted_at": "2014-07-18T20:32:24.000Z",
+            "added_at": "2014-07-19T01:34:23.645Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/imBSoq86u2aXMbOY2dAImA/http/pbs.twimg.com/profile_images/481198697531715584/d6XBNC6Z_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/crsbecker/status/490232639639805953"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/imBSoq86u2aXMbOY2dAImA/http/pbs.twimg.com/profile_images/481198697531715584/d6XBNC6Z_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "43818696",
+                "username": "crsbecker"
+            },
+            "attribution": {
+                "name": "Chris Becker",
+                "username": "crsbecker",
+                "href": "//twitter.com/crsbecker",
+                "thumbnail": "https://storify.com/services/proxy/2/imBSoq86u2aXMbOY2dAImA/http/pbs.twimg.com/profile_images/481198697531715584/d6XBNC6Z_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb1fc6cca65a4000cb35",
+            "eid": "393fb5717a6fc788f59bb8fd",
+            "type": "link",
+            "permalink": "//twitter.com/zhandlen/status/490233778275901440",
+            "posted_at": "2014-07-18T20:36:55.000Z",
+            "added_at": "2014-07-19T01:34:23.656Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/j1Pce3EZkm9PE25BP34t7g/http/pbs.twimg.com/profile_images/378800000677798374/71cd6f4b8da5df6041b6dc3b9d82916b_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/zhandlen/status/490233778275901440"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/j1Pce3EZkm9PE25BP34t7g/http/pbs.twimg.com/profile_images/378800000677798374/71cd6f4b8da5df6041b6dc3b9d82916b_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "18700305",
+                "username": "zhandlen"
+            },
+            "attribution": {
+                "name": "Zack Handlen",
+                "username": "zhandlen",
+                "href": "//twitter.com/zhandlen",
+                "thumbnail": "https://storify.com/services/proxy/2/j1Pce3EZkm9PE25BP34t7g/http/pbs.twimg.com/profile_images/378800000677798374/71cd6f4b8da5df6041b6dc3b9d82916b_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb1fc6cca65a4000cb36",
+            "eid": "ff0227d4274229e572d35c6e",
+            "type": "link",
+            "permalink": "//twitter.com/HitFixDaniel/status/490234287124271104",
+            "posted_at": "2014-07-18T20:38:56.000Z",
+            "added_at": "2014-07-19T01:34:23.670Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/piJzgvQlW_YizX-1mk_KVA/http/pbs.twimg.com/profile_images/478759709948657665/OQ9vKJyk_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/HitFixDaniel/status/490234287124271104"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/piJzgvQlW_YizX-1mk_KVA/http/pbs.twimg.com/profile_images/478759709948657665/OQ9vKJyk_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "14305399",
+                "username": "HitFixDaniel"
+            },
+            "attribution": {
+                "name": "Daniel Fienberg",
+                "username": "HitFixDaniel",
+                "href": "//twitter.com/HitFixDaniel",
+                "thumbnail": "https://storify.com/services/proxy/2/piJzgvQlW_YizX-1mk_KVA/http/pbs.twimg.com/profile_images/478759709948657665/OQ9vKJyk_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb1fc6cca65a4000cb37",
+            "eid": "489d81677518b34d686eb14d",
+            "type": "link",
+            "permalink": "//twitter.com/zhandlen/status/490234730626158592",
+            "posted_at": "2014-07-18T20:40:42.000Z",
+            "added_at": "2014-07-19T01:34:23.700Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/j1Pce3EZkm9PE25BP34t7g/http/pbs.twimg.com/profile_images/378800000677798374/71cd6f4b8da5df6041b6dc3b9d82916b_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/zhandlen/status/490234730626158592"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/j1Pce3EZkm9PE25BP34t7g/http/pbs.twimg.com/profile_images/378800000677798374/71cd6f4b8da5df6041b6dc3b9d82916b_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "18700305",
+                "username": "zhandlen"
+            },
+            "attribution": {
+                "name": "Zack Handlen",
+                "username": "zhandlen",
+                "href": "//twitter.com/zhandlen",
+                "thumbnail": "https://storify.com/services/proxy/2/j1Pce3EZkm9PE25BP34t7g/http/pbs.twimg.com/profile_images/378800000677798374/71cd6f4b8da5df6041b6dc3b9d82916b_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb1fc6cca65a4000cb38",
+            "eid": "7126637c9f68ea2285efc0db",
+            "type": "link",
+            "permalink": "//twitter.com/AlyssaRosenberg/status/490234869650182144",
+            "posted_at": "2014-07-18T20:41:15.000Z",
+            "added_at": "2014-07-19T01:34:23.711Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/_kHLFxk0jJdF2eMTiFGLDw/http/pbs.twimg.com/profile_images/471305315023982592/_E1EylNS_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/AlyssaRosenberg/status/490234869650182144"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/_kHLFxk0jJdF2eMTiFGLDw/http/pbs.twimg.com/profile_images/471305315023982592/_E1EylNS_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "17174089",
+                "username": "AlyssaRosenberg"
+            },
+            "attribution": {
+                "name": "Alyssa Rosenberg",
+                "username": "AlyssaRosenberg",
+                "href": "//twitter.com/AlyssaRosenberg",
+                "thumbnail": "https://storify.com/services/proxy/2/_kHLFxk0jJdF2eMTiFGLDw/http/pbs.twimg.com/profile_images/471305315023982592/_E1EylNS_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cae3641b29652600fe4a",
+            "eid": "d5eb4195e82d1dfa72a0f335",
+            "type": "link",
+            "permalink": "//twitter.com/SamuelAAdams/status/490246502460456960",
+            "posted_at": "2014-07-18T21:27:29.000Z",
+            "added_at": "2014-07-19T01:33:23.523Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/1kItu05UqckMKUNESJjQbw/http/pbs.twimg.com/profile_images/465235413506850816/wAgk-kru_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/SamuelAAdams/status/490246502460456960"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/1kItu05UqckMKUNESJjQbw/http/pbs.twimg.com/profile_images/465235413506850816/wAgk-kru_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "18036062",
+                "username": "SamuelAAdams"
+            },
+            "attribution": {
+                "name": "Sam Adams",
+                "username": "SamuelAAdams",
+                "href": "//twitter.com/SamuelAAdams",
+                "thumbnail": "https://storify.com/services/proxy/2/1kItu05UqckMKUNESJjQbw/http/pbs.twimg.com/profile_images/465235413506850816/wAgk-kru_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb01641b29652600fea9",
+            "eid": "72db192f961079403e441f17",
+            "type": "link",
+            "permalink": "//twitter.com/hollye83/status/490236346691121152",
+            "posted_at": "2014-07-18T20:47:07.000Z",
+            "added_at": "2014-07-19T01:33:53.559Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/-xZLow2aYvWpZwZb-3O8JA/http/pbs.twimg.com/profile_images/3463497654/11dafaea3724373b61f15bce6ee0aa9c_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/hollye83/status/490236346691121152"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/-xZLow2aYvWpZwZb-3O8JA/http/pbs.twimg.com/profile_images/3463497654/11dafaea3724373b61f15bce6ee0aa9c_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "32093131",
+                "username": "hollye83"
+            },
+            "attribution": {
+                "name": "Holly",
+                "username": "hollye83",
+                "href": "//twitter.com/hollye83",
+                "thumbnail": "https://storify.com/services/proxy/2/-xZLow2aYvWpZwZb-3O8JA/http/pbs.twimg.com/profile_images/3463497654/11dafaea3724373b61f15bce6ee0aa9c_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb1fc6cca65a4000cb3a",
+            "eid": "3ce6d062a6809654f8a9d96e",
+            "type": "link",
+            "permalink": "//twitter.com/zhandlen/status/490235864782741504",
+            "posted_at": "2014-07-18T20:45:12.000Z",
+            "added_at": "2014-07-19T01:34:23.728Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/j1Pce3EZkm9PE25BP34t7g/http/pbs.twimg.com/profile_images/378800000677798374/71cd6f4b8da5df6041b6dc3b9d82916b_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/zhandlen/status/490235864782741504"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/j1Pce3EZkm9PE25BP34t7g/http/pbs.twimg.com/profile_images/378800000677798374/71cd6f4b8da5df6041b6dc3b9d82916b_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "18700305",
+                "username": "zhandlen"
+            },
+            "attribution": {
+                "name": "Zack Handlen",
+                "username": "zhandlen",
+                "href": "//twitter.com/zhandlen",
+                "thumbnail": "https://storify.com/services/proxy/2/j1Pce3EZkm9PE25BP34t7g/http/pbs.twimg.com/profile_images/378800000677798374/71cd6f4b8da5df6041b6dc3b9d82916b_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb01641b29652600feab",
+            "eid": "9a5ecbc5933fdfec17eacc87",
+            "type": "link",
+            "permalink": "//twitter.com/TVandDinners/status/490237497478090752",
+            "posted_at": "2014-07-18T20:51:42.000Z",
+            "added_at": "2014-07-19T01:33:53.578Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/Kr53mf6G6OCrXfqi4-NJsw/http/pbs.twimg.com/profile_images/480569301217607680/H1gj-t3t_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/TVandDinners/status/490237497478090752"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/Kr53mf6G6OCrXfqi4-NJsw/http/pbs.twimg.com/profile_images/480569301217607680/H1gj-t3t_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "152076340",
+                "username": "TVandDinners"
+            },
+            "attribution": {
+                "name": "Carrie Raisler",
+                "username": "TVandDinners",
+                "href": "//twitter.com/TVandDinners",
+                "thumbnail": "https://storify.com/services/proxy/2/Kr53mf6G6OCrXfqi4-NJsw/http/pbs.twimg.com/profile_images/480569301217607680/H1gj-t3t_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb01641b29652600feac",
+            "eid": "03cce17fe601802a62ddd212",
+            "type": "link",
+            "permalink": "//twitter.com/ElSoderbergho/status/490238035829997568",
+            "posted_at": "2014-07-18T20:53:50.000Z",
+            "added_at": "2014-07-19T01:33:53.585Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/z0AKf6IY6hw-7u-MN99v0Q/http/pbs.twimg.com/profile_images/487699794236669952/H-1Rlxo4_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/ElSoderbergho/status/490238035829997568"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/z0AKf6IY6hw-7u-MN99v0Q/http/pbs.twimg.com/profile_images/487699794236669952/H-1Rlxo4_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "2618633432",
+                "username": "ElSoderbergho"
+            },
+            "attribution": {
+                "name": "The Narrator",
+                "username": "ElSoderbergho",
+                "href": "//twitter.com/ElSoderbergho",
+                "thumbnail": "https://storify.com/services/proxy/2/z0AKf6IY6hw-7u-MN99v0Q/http/pbs.twimg.com/profile_images/487699794236669952/H-1Rlxo4_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb01641b29652600fead",
+            "eid": "a8ed0d7e7f2a9e4b6e4d266a",
+            "type": "link",
+            "permalink": "//twitter.com/djoneson/status/490238232513101824",
+            "posted_at": "2014-07-18T20:54:37.000Z",
+            "added_at": "2014-07-19T01:33:53.596Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/Y-ogk4CoL3K49N49Sr_XWg/http/pbs.twimg.com/profile_images/416476706296184832/f7Tvj3Yr_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/djoneson/status/490238232513101824"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/Y-ogk4CoL3K49N49Sr_XWg/http/pbs.twimg.com/profile_images/416476706296184832/f7Tvj3Yr_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "281313444",
+                "username": "djoneson"
+            },
+            "attribution": {
+                "name": "Devan Joneson",
+                "username": "djoneson",
+                "href": "//twitter.com/djoneson",
+                "thumbnail": "https://storify.com/services/proxy/2/Y-ogk4CoL3K49N49Sr_XWg/http/pbs.twimg.com/profile_images/416476706296184832/f7Tvj3Yr_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb01641b29652600feb0",
+            "eid": "778f753967774dedc20fcf74",
+            "type": "link",
+            "permalink": "//twitter.com/kristenwarner/status/490239649810366464",
+            "posted_at": "2014-07-18T21:00:15.000Z",
+            "added_at": "2014-07-19T01:33:53.620Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/0IF1CC7W6q2F2hmaMRCmew/http/pbs.twimg.com/profile_images/474781914151153664/esVLGbxH_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/kristenwarner/status/490239649810366464"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/0IF1CC7W6q2F2hmaMRCmew/http/pbs.twimg.com/profile_images/474781914151153664/esVLGbxH_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "14246801",
+                "username": "kristenwarner"
+            },
+            "attribution": {
+                "name": "KaydubyaCapsCapsCaps",
+                "username": "kristenwarner",
+                "href": "//twitter.com/kristenwarner",
+                "thumbnail": "https://storify.com/services/proxy/2/0IF1CC7W6q2F2hmaMRCmew/http/pbs.twimg.com/profile_images/474781914151153664/esVLGbxH_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb01641b29652600feb1",
+            "eid": "136a64a6cf0155e14eaf38c5",
+            "type": "link",
+            "permalink": "//twitter.com/kristenwarner/status/490239825803354112",
+            "posted_at": "2014-07-18T21:00:57.000Z",
+            "added_at": "2014-07-19T01:33:53.627Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/0IF1CC7W6q2F2hmaMRCmew/http/pbs.twimg.com/profile_images/474781914151153664/esVLGbxH_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/kristenwarner/status/490239825803354112"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/0IF1CC7W6q2F2hmaMRCmew/http/pbs.twimg.com/profile_images/474781914151153664/esVLGbxH_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "14246801",
+                "username": "kristenwarner"
+            },
+            "attribution": {
+                "name": "KaydubyaCapsCapsCaps",
+                "username": "kristenwarner",
+                "href": "//twitter.com/kristenwarner",
+                "thumbnail": "https://storify.com/services/proxy/2/0IF1CC7W6q2F2hmaMRCmew/http/pbs.twimg.com/profile_images/474781914151153664/esVLGbxH_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cb01641b29652600feb2",
+            "eid": "5f7540864d20490b83e10d8d",
+            "type": "link",
+            "permalink": "//twitter.com/SarahJLang/status/490240143811305472",
+            "posted_at": "2014-07-18T21:02:13.000Z",
+            "added_at": "2014-07-19T01:33:53.637Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/iR5XnhDwwaH6C3F7V05O4w/http/pbs.twimg.com/profile_images/378800000262456598/57413e21ef6f7d9a358e4ed5ae0df490_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/SarahJLang/status/490240143811305472"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/iR5XnhDwwaH6C3F7V05O4w/http/pbs.twimg.com/profile_images/378800000262456598/57413e21ef6f7d9a358e4ed5ae0df490_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "14577133",
+                "username": "SarahJLang"
+            },
+            "attribution": {
+                "name": "Sarah Lang",
+                "username": "SarahJLang",
+                "href": "//twitter.com/SarahJLang",
+                "thumbnail": "https://storify.com/services/proxy/2/iR5XnhDwwaH6C3F7V05O4w/http/pbs.twimg.com/profile_images/378800000262456598/57413e21ef6f7d9a358e4ed5ae0df490_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cae3641b29652600fe45",
+            "eid": "06c426ab45ad06b4106c8aff",
+            "type": "link",
+            "permalink": "//twitter.com/corybarker/status/490240219992846337",
+            "posted_at": "2014-07-18T21:02:31.000Z",
+            "added_at": "2014-07-19T01:33:23.485Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/VfnMhXj3yjP9bYVdTL0yYQ/http/pbs.twimg.com/profile_images/436241107974750209/NvzI0VzX_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/corybarker/status/490240219992846337"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/VfnMhXj3yjP9bYVdTL0yYQ/http/pbs.twimg.com/profile_images/436241107974750209/NvzI0VzX_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "16197695",
+                "username": "corybarker"
+            },
+            "attribution": {
+                "name": "Cory Barker",
+                "username": "corybarker",
+                "href": "//twitter.com/corybarker",
+                "thumbnail": "https://storify.com/services/proxy/2/VfnMhXj3yjP9bYVdTL0yYQ/http/pbs.twimg.com/profile_images/436241107974750209/NvzI0VzX_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cae3641b29652600fe48",
+            "eid": "615ae8651f6f27c483b5afcb",
+            "type": "link",
+            "permalink": "//twitter.com/mousterpiece/status/490244950748299265",
+            "posted_at": "2014-07-18T21:21:19.000Z",
+            "added_at": "2014-07-19T01:33:23.508Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/id4mpsW7z11pe5JRjx4Nfw/http/pbs.twimg.com/profile_images/378800000676544027/946cc16aa09b7ca305f5c25db192f6d6_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/mousterpiece/status/490244950748299265"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/id4mpsW7z11pe5JRjx4Nfw/http/pbs.twimg.com/profile_images/378800000676544027/946cc16aa09b7ca305f5c25db192f6d6_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "322309334",
+                "username": "mousterpiece"
+            },
+            "attribution": {
+                "name": "Josh Spiegel",
+                "username": "mousterpiece",
+                "href": "//twitter.com/mousterpiece",
+                "thumbnail": "https://storify.com/services/proxy/2/id4mpsW7z11pe5JRjx4Nfw/http/pbs.twimg.com/profile_images/378800000676544027/946cc16aa09b7ca305f5c25db192f6d6_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cae3641b29652600fe49",
+            "eid": "c428e46df42d23255797e3d5",
+            "type": "link",
+            "permalink": "//twitter.com/J_Chlebus/status/490246008195268608",
+            "posted_at": "2014-07-18T21:25:31.000Z",
+            "added_at": "2014-07-19T01:33:23.516Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/uIvhjNalORR0r4-_yqGNcQ/http/pbs.twimg.com/profile_images/2160975866/joanna_normal.jpg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/J_Chlebus/status/490246008195268608"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/uIvhjNalORR0r4-_yqGNcQ/http/pbs.twimg.com/profile_images/2160975866/joanna_normal.jpg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "120652988",
+                "username": "J_Chlebus"
+            },
+            "attribution": {
+                "name": "J. Chlebus",
+                "username": "J_Chlebus",
+                "href": "//twitter.com/J_Chlebus",
+                "thumbnail": "https://storify.com/services/proxy/2/uIvhjNalORR0r4-_yqGNcQ/http/pbs.twimg.com/profile_images/2160975866/joanna_normal.jpg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cae3641b29652600fe4b",
+            "eid": "ac27b149473e8e952e373412",
+            "type": "link",
+            "permalink": "//twitter.com/kevwilliamson/status/490247997263851520",
+            "posted_at": "2014-07-18T21:33:25.000Z",
+            "added_at": "2014-07-19T01:33:23.531Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/kevwilliamson/status/490247997263851520"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "25209206",
+                "username": "kevwilliamson"
+            },
+            "attribution": {
+                "name": "Kevin Williamson",
+                "username": "kevwilliamson",
+                "href": "//twitter.com/kevwilliamson",
+                "thumbnail": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cae3641b29652600fe4c",
+            "eid": "147328329d1a8b7d48f72aa8",
+            "type": "link",
+            "permalink": "//twitter.com/DennisPerkins5/status/490251296008830976",
+            "posted_at": "2014-07-18T21:46:32.000Z",
+            "added_at": "2014-07-19T01:33:23.538Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/cVxsa2HvxgOX39URK4DONw/http/pbs.twimg.com/profile_images/3739049161/dc6a871515ee5b8fef339fd1e8f77f2c_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/DennisPerkins5/status/490251296008830976"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/cVxsa2HvxgOX39URK4DONw/http/pbs.twimg.com/profile_images/3739049161/dc6a871515ee5b8fef339fd1e8f77f2c_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "715228825",
+                "username": "DennisPerkins5"
+            },
+            "attribution": {
+                "name": "Dennis Perkins",
+                "username": "DennisPerkins5",
+                "href": "//twitter.com/DennisPerkins5",
+                "thumbnail": "https://storify.com/services/proxy/2/cVxsa2HvxgOX39URK4DONw/http/pbs.twimg.com/profile_images/3739049161/dc6a871515ee5b8fef339fd1e8f77f2c_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cae3641b29652600fe4e",
+            "eid": "5faa9ca5ecbfd30dd6d491ac",
+            "type": "link",
+            "permalink": "//twitter.com/seanoneal/status/490251856468144130",
+            "posted_at": "2014-07-18T21:48:45.000Z",
+            "added_at": "2014-07-19T01:33:23.554Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/nPXktZjigYbOMggbvErXYw/http/pbs.twimg.com/profile_images/1302016477/profile_normal.jpg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/seanoneal/status/490251856468144130"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/nPXktZjigYbOMggbvErXYw/http/pbs.twimg.com/profile_images/1302016477/profile_normal.jpg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "22805603",
+                "username": "seanoneal"
+            },
+            "attribution": {
+                "name": "Sean O'Neal",
+                "username": "seanoneal",
+                "href": "//twitter.com/seanoneal",
+                "thumbnail": "https://storify.com/services/proxy/2/nPXktZjigYbOMggbvErXYw/http/pbs.twimg.com/profile_images/1302016477/profile_normal.jpg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cac5641b29652600fe0e",
+            "eid": "a1b31d714e7ac5c40b1f9d8c",
+            "type": "link",
+            "permalink": "//twitter.com/soniasaraiya/status/490238487233183744",
+            "posted_at": "2014-07-18T20:55:38.000Z",
+            "added_at": "2014-07-19T01:32:53.471Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/zYJ60lXs3Zq7RWVnYSxiqA/http/pbs.twimg.com/profile_images/472245688290406400/V8xJsNK3_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/soniasaraiya/status/490238487233183744"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/zYJ60lXs3Zq7RWVnYSxiqA/http/pbs.twimg.com/profile_images/472245688290406400/V8xJsNK3_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "140126704",
+                "username": "soniasaraiya"
+            },
+            "attribution": {
+                "name": "sonia saraiya",
+                "username": "soniasaraiya",
+                "href": "//twitter.com/soniasaraiya",
+                "thumbnail": "https://storify.com/services/proxy/2/zYJ60lXs3Zq7RWVnYSxiqA/http/pbs.twimg.com/profile_images/472245688290406400/V8xJsNK3_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cac5641b29652600fe0f",
+            "eid": "81f690157fdf209a164f5f96",
+            "type": "link",
+            "permalink": "//twitter.com/soniasaraiya/status/490238516320686081",
+            "posted_at": "2014-07-18T20:55:45.000Z",
+            "added_at": "2014-07-19T01:32:53.478Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/zYJ60lXs3Zq7RWVnYSxiqA/http/pbs.twimg.com/profile_images/472245688290406400/V8xJsNK3_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/soniasaraiya/status/490238516320686081"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/zYJ60lXs3Zq7RWVnYSxiqA/http/pbs.twimg.com/profile_images/472245688290406400/V8xJsNK3_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "140126704",
+                "username": "soniasaraiya"
+            },
+            "attribution": {
+                "name": "sonia saraiya",
+                "username": "soniasaraiya",
+                "href": "//twitter.com/soniasaraiya",
+                "thumbnail": "https://storify.com/services/proxy/2/zYJ60lXs3Zq7RWVnYSxiqA/http/pbs.twimg.com/profile_images/472245688290406400/V8xJsNK3_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cac5641b29652600fe10",
+            "eid": "3b4778b60cb0c6e7a8b6a381",
+            "type": "link",
+            "permalink": "//twitter.com/kevwilliamson/status/490255039575769089",
+            "posted_at": "2014-07-18T22:01:24.000Z",
+            "added_at": "2014-07-19T01:32:53.485Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/kevwilliamson/status/490255039575769089"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "25209206",
+                "username": "kevwilliamson"
+            },
+            "attribution": {
+                "name": "Kevin Williamson",
+                "username": "kevwilliamson",
+                "href": "//twitter.com/kevwilliamson",
+                "thumbnail": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53ca8dae5b697f7829009f0f",
+            "eid": "885ffe0000c035493794d058",
+            "type": "link",
+            "permalink": "//twitter.com/kevwilliamson/status/490260449145782272",
+            "posted_at": "2014-07-18T22:22:54.000Z",
+            "added_at": "2014-07-19T15:24:30.089Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/kevwilliamson/status/490260449145782272"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "25209206",
+                "username": "kevwilliamson"
+            },
+            "attribution": {
+                "name": "Kevin Williamson",
+                "username": "kevwilliamson",
+                "href": "//twitter.com/kevwilliamson",
+                "thumbnail": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53ca8dae5b697f7829009f10",
+            "eid": "d62d1fe84c0d5f978037f2c1",
+            "type": "link",
+            "permalink": "//twitter.com/kevwilliamson/status/490259753713426432",
+            "posted_at": "2014-07-18T22:20:08.000Z",
+            "added_at": "2014-07-19T15:24:30.100Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/kevwilliamson/status/490259753713426432"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "25209206",
+                "username": "kevwilliamson"
+            },
+            "attribution": {
+                "name": "Kevin Williamson",
+                "username": "kevwilliamson",
+                "href": "//twitter.com/kevwilliamson",
+                "thumbnail": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cae3641b29652600fe4f",
+            "eid": "ce2c98bcd4c2343279c94ce4",
+            "type": "link",
+            "permalink": "//twitter.com/SamuelAAdams/status/490279817146019842",
+            "posted_at": "2014-07-18T23:39:52.000Z",
+            "added_at": "2014-07-19T01:33:23.561Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/1kItu05UqckMKUNESJjQbw/http/pbs.twimg.com/profile_images/465235413506850816/wAgk-kru_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/SamuelAAdams/status/490279817146019842"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/1kItu05UqckMKUNESJjQbw/http/pbs.twimg.com/profile_images/465235413506850816/wAgk-kru_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "18036062",
+                "username": "SamuelAAdams"
+            },
+            "attribution": {
+                "name": "Sam Adams",
+                "username": "SamuelAAdams",
+                "href": "//twitter.com/SamuelAAdams",
+                "thumbnail": "https://storify.com/services/proxy/2/1kItu05UqckMKUNESJjQbw/http/pbs.twimg.com/profile_images/465235413506850816/wAgk-kru_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cae3641b29652600fe50",
+            "eid": "4155e1a065eba884780fbbe1",
+            "type": "link",
+            "permalink": "//twitter.com/kevwilliamson/status/490281388789100545",
+            "posted_at": "2014-07-18T23:46:06.000Z",
+            "added_at": "2014-07-19T01:33:23.568Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/kevwilliamson/status/490281388789100545"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "25209206",
+                "username": "kevwilliamson"
+            },
+            "attribution": {
+                "name": "Kevin Williamson",
+                "username": "kevwilliamson",
+                "href": "//twitter.com/kevwilliamson",
+                "thumbnail": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9ca89641b29652600fd70",
+            "eid": "6eeea0ccd04fa9d936f9ceea",
+            "type": "link",
+            "permalink": "//twitter.com/NassimKe/status/490291561746661376",
+            "posted_at": "2014-07-19T00:26:32.000Z",
+            "added_at": "2014-07-19T01:31:53.252Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/8cDvAejGl4qKGiB2OrDKyQ/http/pbs.twimg.com/profile_images/378800000558991780/0eb5a49632ee8960ab0ebd400d347263_normal.png",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/NassimKe/status/490291561746661376"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/8cDvAejGl4qKGiB2OrDKyQ/http/pbs.twimg.com/profile_images/378800000558991780/0eb5a49632ee8960ab0ebd400d347263_normal.png",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "346637085",
+                "username": "NassimKe"
+            },
+            "attribution": {
+                "name": "Nassim",
+                "username": "NassimKe",
+                "href": "//twitter.com/NassimKe",
+                "thumbnail": "https://storify.com/services/proxy/2/8cDvAejGl4qKGiB2OrDKyQ/http/pbs.twimg.com/profile_images/378800000558991780/0eb5a49632ee8960ab0ebd400d347263_normal.png"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9ca89641b29652600fd71",
+            "eid": "a341147f50818c39126d46b5",
+            "type": "link",
+            "permalink": "//twitter.com/kevwilliamson/status/490292000139132928",
+            "posted_at": "2014-07-19T00:28:16.000Z",
+            "added_at": "2014-07-19T01:31:53.265Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/kevwilliamson/status/490292000139132928"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "25209206",
+                "username": "kevwilliamson"
+            },
+            "attribution": {
+                "name": "Kevin Williamson",
+                "username": "kevwilliamson",
+                "href": "//twitter.com/kevwilliamson",
+                "thumbnail": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cac5641b29652600fe11",
+            "eid": "b46b60ea2df487dc9d8e53e7",
+            "type": "link",
+            "permalink": "//twitter.com/RowanKaiser/status/490257015160066050",
+            "posted_at": "2014-07-18T22:09:15.000Z",
+            "added_at": "2014-07-19T01:32:53.493Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/-49Iumv5MGI37_kFJD1ZWw/http/pbs.twimg.com/profile_images/485358192528875520/c9yvxJlK_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/RowanKaiser/status/490257015160066050"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/-49Iumv5MGI37_kFJD1ZWw/http/pbs.twimg.com/profile_images/485358192528875520/c9yvxJlK_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "109951411",
+                "username": "RowanKaiser"
+            },
+            "attribution": {
+                "name": "Rowan Bloodstone",
+                "username": "RowanKaiser",
+                "href": "//twitter.com/RowanKaiser",
+                "thumbnail": "https://storify.com/services/proxy/2/-49Iumv5MGI37_kFJD1ZWw/http/pbs.twimg.com/profile_images/485358192528875520/c9yvxJlK_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cac5641b29652600fe12",
+            "eid": "b9fbf730dcd83857aab89caf",
+            "type": "link",
+            "permalink": "//twitter.com/RowanKaiser/status/490257080637349888",
+            "posted_at": "2014-07-18T22:09:31.000Z",
+            "added_at": "2014-07-19T01:32:53.502Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/-49Iumv5MGI37_kFJD1ZWw/http/pbs.twimg.com/profile_images/485358192528875520/c9yvxJlK_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/RowanKaiser/status/490257080637349888"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/-49Iumv5MGI37_kFJD1ZWw/http/pbs.twimg.com/profile_images/485358192528875520/c9yvxJlK_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "109951411",
+                "username": "RowanKaiser"
+            },
+            "attribution": {
+                "name": "Rowan Bloodstone",
+                "username": "RowanKaiser",
+                "href": "//twitter.com/RowanKaiser",
+                "thumbnail": "https://storify.com/services/proxy/2/-49Iumv5MGI37_kFJD1ZWw/http/pbs.twimg.com/profile_images/485358192528875520/c9yvxJlK_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cac5641b29652600fe13",
+            "eid": "4770c5397fbd5bda59efb602",
+            "type": "link",
+            "permalink": "//twitter.com/RowanKaiser/status/490258275326111744",
+            "posted_at": "2014-07-18T22:14:16.000Z",
+            "added_at": "2014-07-19T01:32:53.509Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/-49Iumv5MGI37_kFJD1ZWw/http/pbs.twimg.com/profile_images/485358192528875520/c9yvxJlK_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/RowanKaiser/status/490258275326111744"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/-49Iumv5MGI37_kFJD1ZWw/http/pbs.twimg.com/profile_images/485358192528875520/c9yvxJlK_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "109951411",
+                "username": "RowanKaiser"
+            },
+            "attribution": {
+                "name": "Rowan Bloodstone",
+                "username": "RowanKaiser",
+                "href": "//twitter.com/RowanKaiser",
+                "thumbnail": "https://storify.com/services/proxy/2/-49Iumv5MGI37_kFJD1ZWw/http/pbs.twimg.com/profile_images/485358192528875520/c9yvxJlK_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cac5641b29652600fe14",
+            "eid": "deb3db759c315107b27945b0",
+            "type": "link",
+            "permalink": "//twitter.com/TVandDinners/status/490259769186205696",
+            "posted_at": "2014-07-18T22:20:12.000Z",
+            "added_at": "2014-07-19T01:32:53.516Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/Kr53mf6G6OCrXfqi4-NJsw/http/pbs.twimg.com/profile_images/480569301217607680/H1gj-t3t_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/TVandDinners/status/490259769186205696"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/Kr53mf6G6OCrXfqi4-NJsw/http/pbs.twimg.com/profile_images/480569301217607680/H1gj-t3t_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "152076340",
+                "username": "TVandDinners"
+            },
+            "attribution": {
+                "name": "Carrie Raisler",
+                "username": "TVandDinners",
+                "href": "//twitter.com/TVandDinners",
+                "thumbnail": "https://storify.com/services/proxy/2/Kr53mf6G6OCrXfqi4-NJsw/http/pbs.twimg.com/profile_images/480569301217607680/H1gj-t3t_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9cac5641b29652600fe15",
+            "eid": "0599c1b6f67aad21f6aff1cb",
+            "type": "link",
+            "permalink": "//twitter.com/kevwilliamson/status/490262745095233536",
+            "posted_at": "2014-07-18T22:32:01.000Z",
+            "added_at": "2014-07-19T01:32:53.523Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/kevwilliamson/status/490262745095233536"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "25209206",
+                "username": "kevwilliamson"
+            },
+            "attribution": {
+                "name": "Kevin Williamson",
+                "username": "kevwilliamson",
+                "href": "//twitter.com/kevwilliamson",
+                "thumbnail": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9caa7c6cca65a4000cad8",
+            "eid": "e7f5a14771f37d0cb3fe75b5",
+            "type": "link",
+            "permalink": "//twitter.com/tvoti/status/490247312535351297",
+            "posted_at": "2014-07-18T21:30:42.000Z",
+            "added_at": "2014-07-19T01:32:23.425Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/IY9HjRcnqW08lzQ7Kltupw/http/pbs.twimg.com/profile_images/488826326749429760/hDRbdWbw_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/tvoti/status/490247312535351297"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/IY9HjRcnqW08lzQ7Kltupw/http/pbs.twimg.com/profile_images/488826326749429760/hDRbdWbw_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "26125943",
+                "username": "tvoti"
+            },
+            "attribution": {
+                "name": "Todd VanDerWerff",
+                "username": "tvoti",
+                "href": "//twitter.com/tvoti",
+                "thumbnail": "https://storify.com/services/proxy/2/IY9HjRcnqW08lzQ7Kltupw/http/pbs.twimg.com/profile_images/488826326749429760/hDRbdWbw_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9caa7c6cca65a4000cad9",
+            "eid": "34ceda14fda5875bcff3a0d0",
+            "type": "link",
+            "permalink": "//twitter.com/kevwilliamson/status/490254864237080577",
+            "posted_at": "2014-07-18T22:00:42.000Z",
+            "added_at": "2014-07-19T01:32:23.434Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/kevwilliamson/status/490254864237080577"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "25209206",
+                "username": "kevwilliamson"
+            },
+            "attribution": {
+                "name": "Kevin Williamson",
+                "username": "kevwilliamson",
+                "href": "//twitter.com/kevwilliamson",
+                "thumbnail": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9caa7c6cca65a4000cada",
+            "eid": "4f1007cce1a40e105d181fb6",
+            "type": "link",
+            "permalink": "//twitter.com/tvoti/status/490262965044510721",
+            "posted_at": "2014-07-18T22:32:54.000Z",
+            "added_at": "2014-07-19T01:32:23.443Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/IY9HjRcnqW08lzQ7Kltupw/http/pbs.twimg.com/profile_images/488826326749429760/hDRbdWbw_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/tvoti/status/490262965044510721"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/IY9HjRcnqW08lzQ7Kltupw/http/pbs.twimg.com/profile_images/488826326749429760/hDRbdWbw_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "26125943",
+                "username": "tvoti"
+            },
+            "attribution": {
+                "name": "Todd VanDerWerff",
+                "username": "tvoti",
+                "href": "//twitter.com/tvoti",
+                "thumbnail": "https://storify.com/services/proxy/2/IY9HjRcnqW08lzQ7Kltupw/http/pbs.twimg.com/profile_images/488826326749429760/hDRbdWbw_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9ca89641b29652600fd6f",
+            "eid": "010573cc3e97baf7eaee9ccb",
+            "type": "link",
+            "permalink": "//twitter.com/kevwilliamson/status/490289113329700864",
+            "posted_at": "2014-07-19T00:16:48.000Z",
+            "added_at": "2014-07-19T01:31:53.242Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/kevwilliamson/status/490289113329700864"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "25209206",
+                "username": "kevwilliamson"
+            },
+            "attribution": {
+                "name": "Kevin Williamson",
+                "username": "kevwilliamson",
+                "href": "//twitter.com/kevwilliamson",
+                "thumbnail": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53c9ca89641b29652600fd72",
+            "eid": "7b874f4f07b61ee77b1404f5",
+            "type": "link",
+            "permalink": "//twitter.com/jlwoj/status/490294673949224960",
+            "posted_at": "2014-07-19T00:38:54.000Z",
+            "added_at": "2014-07-19T01:31:53.272Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/QvlOQOvoSrbub7TBCeO5pA/http/pbs.twimg.com/profile_images/3784914204/734488f6b90852320d95e0066d9232c7_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/jlwoj/status/490294673949224960"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/QvlOQOvoSrbub7TBCeO5pA/http/pbs.twimg.com/profile_images/3784914204/734488f6b90852320d95e0066d9232c7_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "14995357",
+                "username": "jlwoj"
+            },
+            "attribution": {
+                "name": "Jason Wojciechowski",
+                "username": "jlwoj",
+                "href": "//twitter.com/jlwoj",
+                "thumbnail": "https://storify.com/services/proxy/2/QvlOQOvoSrbub7TBCeO5pA/http/pbs.twimg.com/profile_images/3784914204/734488f6b90852320d95e0066d9232c7_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53ca807b5b697f7829002226",
+            "eid": "d2e416e0520599714c3d30d7",
+            "type": "link",
+            "permalink": "//twitter.com/kevwilliamson/status/490309229241057280",
+            "posted_at": "2014-07-19T01:36:44.000Z",
+            "added_at": "2014-07-19T14:28:11.219Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/kevwilliamson/status/490309229241057280"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "25209206",
+                "username": "kevwilliamson"
+            },
+            "attribution": {
+                "name": "Kevin Williamson",
+                "username": "kevwilliamson",
+                "href": "//twitter.com/kevwilliamson",
+                "thumbnail": "https://storify.com/services/proxy/2/iso-_lRVEMLZ9d9Weh564g/http/pbs.twimg.com/profile_images/487305251163103232/LzIOMuVk_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53ca807b5b697f7829002227",
+            "eid": "4d8556f374ca640a894b9c3e",
+            "type": "link",
+            "permalink": "//twitter.com/cadlymack/status/490309729319538688",
+            "posted_at": "2014-07-19T01:38:43.000Z",
+            "added_at": "2014-07-19T14:28:11.231Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/d4gEqJNRgqbDah-9cZZihQ/http/pbs.twimg.com/profile_images/472297469682794496/PpHxlwKc_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/cadlymack/status/490309729319538688"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/d4gEqJNRgqbDah-9cZZihQ/http/pbs.twimg.com/profile_images/472297469682794496/PpHxlwKc_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "19852483",
+                "username": "cadlymack"
+            },
+            "attribution": {
+                "name": "Carina MacKenzie",
+                "username": "cadlymack",
+                "href": "//twitter.com/cadlymack",
+                "thumbnail": "https://storify.com/services/proxy/2/d4gEqJNRgqbDah-9cZZihQ/http/pbs.twimg.com/profile_images/472297469682794496/PpHxlwKc_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53ca805d5b697f7829002075",
+            "eid": "db369f84b282d4309bf0396b",
+            "type": "link",
+            "permalink": "//twitter.com/hellresidentNY/status/490312203565023233",
+            "posted_at": "2014-07-19T01:48:33.000Z",
+            "added_at": "2014-07-19T14:27:41.262Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/NDBGWSXwwkh1NL1e0KxHbg/http/pbs.twimg.com/profile_images/454814078507442176/viT5sasL_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/hellresidentNY/status/490312203565023233"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/NDBGWSXwwkh1NL1e0KxHbg/http/pbs.twimg.com/profile_images/454814078507442176/viT5sasL_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "245658615",
+                "username": "hellresidentNY"
+            },
+            "attribution": {
+                "name": "hellresidentNY",
+                "username": "hellresidentNY",
+                "href": "//twitter.com/hellresidentNY",
+                "thumbnail": "https://storify.com/services/proxy/2/NDBGWSXwwkh1NL1e0KxHbg/http/pbs.twimg.com/profile_images/454814078507442176/viT5sasL_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53ca805d5b697f7829002078",
+            "eid": "4510e3ae4abe666768be6193",
+            "type": "link",
+            "permalink": "//twitter.com/hellresidentNY/status/490312741052485632",
+            "posted_at": "2014-07-19T01:50:41.000Z",
+            "added_at": "2014-07-19T14:27:41.275Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/NDBGWSXwwkh1NL1e0KxHbg/http/pbs.twimg.com/profile_images/454814078507442176/viT5sasL_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/hellresidentNY/status/490312741052485632"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/NDBGWSXwwkh1NL1e0KxHbg/http/pbs.twimg.com/profile_images/454814078507442176/viT5sasL_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "245658615",
+                "username": "hellresidentNY"
+            },
+            "attribution": {
+                "name": "hellresidentNY",
+                "username": "hellresidentNY",
+                "href": "//twitter.com/hellresidentNY",
+                "thumbnail": "https://storify.com/services/proxy/2/NDBGWSXwwkh1NL1e0KxHbg/http/pbs.twimg.com/profile_images/454814078507442176/viT5sasL_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        },
+        {
+            "id": "53ca809e2b1994901300547b",
+            "eid": "19cf1110ae60f29491f948da",
+            "type": "link",
+            "permalink": "//twitter.com/GemOfAmara/status/490307960741326848",
+            "posted_at": "2014-07-19T01:31:41.000Z",
+            "added_at": "2014-07-19T14:28:46.759Z",
+            "data": {
+                "oembed": {
+                    "type": "rich",
+                    "html": "",
+                    "thumbnail_url": "https://storify.com/services/proxy/2/A22_tZAQy3X9-EV1QbfYOQ/http/pbs.twimg.com/profile_images/378800000388112320/5ab10df25733ea554825fac9ae635387_normal.jpeg",
+                    "title": "Twitter / Twitter",
+                    "provider_url": "https://twitter.com",
+                    "provider_name": "Twitter",
+                    "url": "//twitter.com/GemOfAmara/status/490307960741326848"
+                },
+                "link": {
+                    "rest_api_url": "https://api.twitter.com/1.1/statuses/show.json?id=undefined",
+                    "oembed_url": "https://api.twitter.com/1.1/statuses/oembed.json?id=undefined",
+                    "thumbnail": "https://storify.com/services/proxy/2/A22_tZAQy3X9-EV1QbfYOQ/http/pbs.twimg.com/profile_images/378800000388112320/5ab10df25733ea554825fac9ae635387_normal.jpeg",
+                    "description": "Twitter / Twitter",
+                    "title": "Twitter / Twitter"
+                }
+            },
+            "source": {
+                "href": "//twitter.com",
+                "name": "twitter",
+                "userid": "30326965",
+                "username": "GemOfAmara"
+            },
+            "attribution": {
+                "name": "Danny",
+                "username": "GemOfAmara",
+                "href": "//twitter.com/GemOfAmara",
+                "thumbnail": "https://storify.com/services/proxy/2/A22_tZAQy3X9-EV1QbfYOQ/http/pbs.twimg.com/profile_images/378800000388112320/5ab10df25733ea554825fac9ae635387_normal.jpeg"
+            },
+            "comments": [],
+            "stats": {
+                "likes": 0,
+                "comments": 0
+            }
+        }
+    ]
+}
