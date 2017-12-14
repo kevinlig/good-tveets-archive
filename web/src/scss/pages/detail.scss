@@ -28,6 +28,29 @@
         margin-right: auto;
         padding: 20px;
 
+        .loading {
+            text-align: center;
+        }
+
+        .notice {
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom: 15px;
+            max-width: 500px;
+
+            .notice-header {
+                font-weight: 600;
+                font-family: 'Barlow', sans-serif;
+                font-size: 16px;
+
+                margin-bottom: 5px;
+
+                text-transform: uppercase;
+                text-align: center;
+            }
+
+        }
+
         .quality-container {
             margin-left: auto;
             margin-right: auto;

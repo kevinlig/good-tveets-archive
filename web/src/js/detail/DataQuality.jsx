@@ -33,6 +33,10 @@ const DataQuality = (props) => {
     }
     explanation += ` that could not be archived for technical reasons.`;
 
+    if (props.quality === 0) {
+        explanation = '';
+    }
+
     return (
         <div className="quality-container">
             <div className="quality-header">

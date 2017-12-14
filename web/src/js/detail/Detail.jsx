@@ -52,6 +52,7 @@ export default class Detail extends React.Component {
         const quality = data.tweets.length / total;
 
         this.setState({
+            loaded: true,
             title: data.meta.title,
             date: moment.unix(data.meta.date).format('MMMM D, YYYY'),
             tweets: data.tweets,
@@ -67,6 +68,27 @@ export default class Detail extends React.Component {
             removed = <RemovedTweets lost={this.state.lost} />;
         }
 
+        let notice = null;
+        if (this.props.match.params.id === 'good-tveets') {
+            notice = (
+                <div className="notice">
+                    <div className="notice-header">
+                        Important Note
+                    </div>
+                    Storify reused an internal identifier when recording this story. As a result, 11 of 12 stories with this identifier were overwritten by each other. The last available version of this story is presented below, which may or may not be the story published on the above date.
+                </div>
+            );
+        }
+
+        let loading = null;
+        if (!this.state.loaded) {
+            loading = (
+                <div className="loading">
+                    Loading...
+                </div>
+            );
+        }
+
         return (
             <div className="detail-page">
                  <div className="site-header">
@@ -79,7 +101,9 @@ export default class Detail extends React.Component {
                 </div>
 
                 <div className="page-content">
+                    {notice}
                     <DataQuality {...this.state} />
+                    {loading}
                     <TweetList data={this.state.tweets} />
                     {removed}
                 </div>
