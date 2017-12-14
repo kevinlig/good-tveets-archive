@@ -4,7 +4,7 @@ const jsTag = /\\n\<script.*<\/script>\\n/gi;
 
 class TweetItem extends React.Component {
     componentDidMount() {
-        if (window.twttr) {
+        if (window.twttr && !this.props.disabled) {
             window.twttr.widgets.load(this.dom);
         }
     }
@@ -27,7 +27,7 @@ class TweetItem extends React.Component {
 
 const TweetList = (props) => {
     const items = props.data.map((tweet) => (
-        <TweetItem key={tweet.url} html={tweet.html} />
+        <TweetItem key={tweet.url} html={tweet.html} disabled={props.data.length > 150} />
     ));
 
     return (

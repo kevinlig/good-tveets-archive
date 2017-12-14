@@ -89,6 +89,18 @@ export default class Detail extends React.Component {
             );
         }
 
+        let perfNote = null;
+        if (this.state.tweets.length > 150) {
+            perfNote = (
+                <div className="notice">
+                    <div className="notice-header">
+                        Performance Optimization
+                    </div>
+                    Due to the large number of posts in this story, Twitter widgets have been disabled and only plain text versions are displayed. To view the original post, click the date link.
+                </div>
+            );
+        }
+
         return (
             <div className="detail-page">
                  <div className="site-header">
@@ -111,6 +123,7 @@ export default class Detail extends React.Component {
                     {notice}
                     <DataQuality {...this.state} />
                     {loading}
+                    {perfNote}
                     <TweetList data={this.state.tweets} />
                     {removed}
                 </div>
